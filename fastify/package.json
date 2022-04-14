@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "fastify": "^3.28.0",
+    "qs": "^6.10.3"
+  },
+  "scripts": {
+    "run:default": "node default.js",
+    "run:qs": "node qs.js"
+  }
+}
